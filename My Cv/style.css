@@ -1,0 +1,48 @@
+#me{
+    margin-left: 20px; 
+    margin-right: 20px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    background-color: whitesmoke;
+    border-radius: 40px;
+    padding-right: 20px;
+    border: 3px gray solid;
+
+    
+}
+#bet{
+    text-align: center;
+    font-size: 40px;
+    color: gray;
+}
+span{
+    color: goldenrod;
+}
+.cxx{
+    color: rgb(71, 71, 163);
+}
+.see{
+    width: 100px; height: 100px;
+    margin-bottom: 25px;
+    border-radius: 20px;
+}
+.but{
+    text-align: center;
+    font-size: 18px;
+}
+
+p{
+    font-size: 18px;
+}
+h1{
+    text-align: center;
+    color: gray;
+    background-color: papayawhip;
+    border-radius: 30px;
+}
+.can{
+    font-size: 25px;
+}
+.can1{
+    font-size: 20px;
+}
